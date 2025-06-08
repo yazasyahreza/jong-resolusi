@@ -2,5 +2,5 @@ RESOLUSI SAYA
 - Belajar Git & Github
 - Bantu jual produk Ayah secara online
 - Workout setiap jam 9 malam
-- Belajar HTML Dasar
 - Belajar HTML5
+- Belajar Laravel
