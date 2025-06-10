@@ -4,4 +4,5 @@ RESOLUSI SAYA
 - Workout setiap jam 9 malam
 - Belajar HTML5
 - Belajar Laravel
-- Daftar Pelatihan bootcamp mini Canva
+- Daftar pelatihan bootcamp mini Canva
+- Daftar pelatihan dan sertifikasi gen AI
