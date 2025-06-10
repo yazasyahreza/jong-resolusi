@@ -3,3 +3,4 @@ Rencana Jual Produk Ayah
 - Set toko
 - Upload produk
 - Buat iklan
+- Pilih platform online bisa shoppe atau tiktok
